@@ -14,6 +14,7 @@ dimensional datasets. The hybrid PSO with K-means algorithm combines the ability
 of the globalized searching of the PSO algorithm and the fast convergence of the K-
 means algorithm. The results obtained are analyzed and compared for accuracy and
 performance of the algorithm on large datasets.
+
 Data sets: IRIS, Poker, Heart, Contraceptive Method Choice Data Set (Taken from UCI repository)
 =================================================================================================================================
 
