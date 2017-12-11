@@ -1,7 +1,6 @@
 # Hybrid-K-means-Pso(MATLAB)
 An advanced version of K-Means using Particle swarm optimization for clustering of high dimensional data sets, which converges faster to the optimal solution.    
 
-
 “Clustering” is a technique that is employed to partition elements in a data set such
 that similar elements are assigned to same cluster while elements with different
 properties are assigned to different clusters. Fast and high-quality document clustering
