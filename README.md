@@ -15,10 +15,10 @@ dimensional datasets. The hybrid PSO with K-means algorithm combines the ability
 of the globalized searching of the PSO algorithm and the fast convergence of the K-
 means algorithm. The results obtained are analyzed and compared for accuracy and
 performance of the algorithm on large datasets.
-
+Data sets: IRIS, Poker, Heart, Contraceptive Method Choice Data Set (Taken from UCI repository)
 =================================================================================================================================
 
-All the data files and MATLAB code files are in the KPSOK zip file. (Feel free to download)
+Copy all the gui files if you also want gui along with the code. Else just copy the respective Kmeans.m, KPSO.m and KPSOK.m files of the data of your requirement and execute them in the same order. All the data files are also included.
 
 The entire information, background and results are present in the doc2.pdf in detail.
 
