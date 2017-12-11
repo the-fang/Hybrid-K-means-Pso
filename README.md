@@ -1,4 +1,4 @@
-# Hybrid-K-means-Pso
+# Hybrid-K-means-Pso(MATLAB)
 An advanced version of K-Means using Particle swarm optimization for clustering of high dimensional data sets, which converges faster to the optimal solution.    
 
 
@@ -15,3 +15,11 @@ dimensional datasets. The hybrid PSO with K-means algorithm combines the ability
 of the globalized searching of the PSO algorithm and the fast convergence of the K-
 means algorithm. The results obtained are analyzed and compared for accuracy and
 performance of the algorithm on large datasets.
+
+=================================================================================================================================
+
+All the data files and MATLAB code files are in the KPSOK zip file. (Feel free to download)
+
+The entire information, background and results are present in the doc2.pdf in detail.
+
+=================================================================================================================================
